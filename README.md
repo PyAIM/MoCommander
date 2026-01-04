@@ -1,5 +1,5 @@
 # Mo Commander
-
+# Author: Moez Ben-Azzouz
 A Norton Commander clone built with Python and [Textual](https://textual.textualize.io/).
 
 ![Mo Commander Screenshot](docs/screenshot.png)
