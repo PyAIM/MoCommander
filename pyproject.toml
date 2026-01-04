@@ -42,9 +42,9 @@ dev = [
 mocommander = "src.main:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/mocommander"
-Repository = "https://github.com/yourusername/mocommander"
-Issues = "https://github.com/yourusername/mocommander/issues"
+Homepage = "https://github.com/pyaim/mocommander"
+Repository = "https://github.com/pyaim/mocommander"
+Issues = "https://github.com/pyaim/mocommander/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src"]

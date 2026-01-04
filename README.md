@@ -27,14 +27,14 @@ pip install mocommander
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/mocommander.git
+git clone https://github.com/pyaim/mocommander.git
 cd mocommander
 pip install -e .
 ```
 
 ### Standalone Executable
 
-Download the latest release for your platform from the [Releases](https://github.com/yourusername/mocommander/releases) page.
+Download the latest release for your platform from the [Releases](https://github.com/pyaim/mocommander/releases) page.
 
 ## Usage
 
@@ -99,7 +99,7 @@ Configuration is stored in:
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/mocommander.git
+git clone https://github.com/pyaim/mocommander.git
 cd mocommander
 pip install -e ".[dev]"
 ```
